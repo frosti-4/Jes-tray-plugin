@@ -1,0 +1,9 @@
+{"api_version": "0.1.1",
+  "plugin_version": "1.0",
+  "name": "JES Tray",
+  "api_request": ["plugin_center"],
+  "main_source": "TrayWidget.qml",
+  "json_files":{
+    "plugin_center": "load_list.json"
+  }
+}
